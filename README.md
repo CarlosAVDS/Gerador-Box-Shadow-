@@ -4,6 +4,11 @@ Projeto desenvolvido para facilitar a criação visual de sombras (`box-shadow`)
 <div align="center">
   <img width="1439" height="858" alt="Image" src="https://github.com/user-attachments/assets/9db003c2-227a-4755-b178-42e1b09bbe54" />
 </div>
+
+## 💻 Demonstração
+https://carlosavds.github.io/Gerador-Box-Shadow-/
+
+
 ## 🚀 Funcionalidades
 
 - Interface amigável e intuitiva
@@ -21,10 +26,6 @@ Projeto desenvolvido para facilitar a criação visual de sombras (`box-shadow`)
 - HTML5
 - CSS3
 - JavaScript (puro)
-
-## 💻 Demonstração
-
-https://carlosavds.github.io/Gerador-Box-Shadow-/
 
 ## 📦 Como usar
 
