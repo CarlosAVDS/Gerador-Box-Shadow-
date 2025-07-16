@@ -45,14 +45,16 @@ Gerador-Box-Shadow-/
 ├── index.html
 ├── style.css
 └── script.js
-🧩 Melhorias futuras
+```
+
+## 🧩 Melhorias futuras
 Salvar estilos favoritos
 
 Exportar em formato JSON/CSS
 
 Suporte a múltiplas sombras em camadas
 
-🤝 Contribuições
+## 🤝 Contribuições
 Contribuições são sempre bem-vindas! Fique à vontade para abrir uma issue ou enviar um pull request.
 
 📄 Licença
