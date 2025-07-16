@@ -1,7 +1,9 @@
 # 🎨 Gerador de Box-Shadow
 
-Projeto desenvolvido para facilitar a criação visual de sombras (`box-shadow`) em CSS. Ideal para quem deseja testar e copiar rapidamente estilos personalizados para usar em sites e aplicações web.
-
+Projeto desenvolvido para facilitar a criação visual de sombras (`box-shadow`) em CSS. Ideal para quem deseja testar e copiar rapidamente estilos personalizados para usar em sites e aplicações web. 
+<div align="center">
+  <img width="1439" height="858" alt="Image" src="https://github.com/user-attachments/assets/9db003c2-227a-4755-b178-42e1b09bbe54" />
+</div>
 ## 🚀 Funcionalidades
 
 - Interface amigável e intuitiva
@@ -56,4 +58,4 @@ Contribuições são sempre bem-vindas! Fique à vontade para abrir uma issue ou
 📄 Licença
 Este projeto está sob a licença MIT.
 
-Desenvolvido com ❤️ por Carlos A.
+Desenvolvido com ❤️ por Carlos A no curso HORA DE CODAR.
